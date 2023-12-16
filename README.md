@@ -11,10 +11,10 @@
 <hr/>
 
 <a href="https://github-readme-stats.vercel.app/api?username=0Ars0&show_icons=true&theme=dracula&hide=issues,stars&bg_color=00000000">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=0Ars0&show_icons=true&theme=dracula&hide=issues,stars&bg_color=00000000" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=0Ars0&show_icons=true&theme=dracula&hide=issues,stars&bg_color=00000000" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0ArS0&langs_count=10&layout=compact&bg_color=00000000&size_weight=0.5&count_weight=0.5&text_color=fff">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ArS0&langs_count=10&layout=compact&bg_color=00000000&size_weight=0.5&count_weight=0.5&text_color=fff" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ArS0&langs_count=10&layout=compact&bg_color=00000000&size_weight=0.5&count_weight=0.5&text_color=fff" />
 </a>
 
 </div>
