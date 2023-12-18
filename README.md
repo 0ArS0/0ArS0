@@ -6,9 +6,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apolobela/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurmonteiro20172018@gmail.com)
 
-### Estatísticas
+
 
 <hr/>
+
+### Estatísticas
 
 <a href="https://github-readme-stats.vercel.app/api?username=0Ars0&show_icons=true&theme=dracula&hide=issues,stars&bg_color=00000000">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=0Ars0&show_icons=true&theme=dracula&hide=issues,stars&bg_color=00000000" />
