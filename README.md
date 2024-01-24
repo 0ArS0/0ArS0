@@ -1,11 +1,18 @@
 <div align="center">
-    <img alt="logo" src="https://github.com/0ArS0/0ArS0/assets/114269871/81cb0beb-b74d-41fb-9a96-40c9b657c6ab">
 
-# Olá! Seja bem-vindo(a) ao meu perfil!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=34&duration=2800&pause=3000&color=FFFFFF&center=true&vCenter=true&width=940&height=40&lines=Seja+bem-vindo(a)+ao+meu+perfil!" alt="Seja bem-vindo(a) ao meu perfil!">
+</p>
+
+<hr/>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/f36f96110033033.5fe1ffacddc8b.gif" alt="GIF" width="500" height="300">
+</p>
+<p align="center">Olá, meu nome é Arthur e sou um desenvolvedor junior.
+<p align="center">Atualmente cursando engenharia de software.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurmonteiro-ars/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apolobela/)
-
-
 <hr/>
 
 ### Estatísticas
@@ -18,7 +25,8 @@
 </a>
 
 </div>
-<hr/>
+
+#
 
 <div align="center">
 
@@ -36,3 +44,6 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 </div>
+
+
+
