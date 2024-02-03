@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/f36f96110033033.5fe1ffacddc8b.gif" alt="GIF" width="500" height="300">
 </p>
-<p align="center">Olá, meu nome é Arthur e sou um desenvolvedor junior.
+<p align="center">Olá, meu nome é Arthur e sou um desenvolvedor jovem aprendiz na Best2Bee.
 <p align="center">Atualmente cursando engenharia de software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurmonteiro-ars/)
